@@ -1,2 +1,4 @@
 # products
-Días 9, 10 y 11. CRUD Productos, categorías y microservicio FeignClient para ver los productos.
+Días 9, 10, 11 y 12. CRUD Productos, categorías,
+     microservicio FeignClient para ver los productos,
+     pruebas unitarias con JUnit y Mockito.
